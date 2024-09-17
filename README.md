@@ -20,14 +20,18 @@ This project features:
 
 To run this project locally, follow these steps:
 
-1. **Clone the Repository**
-    ```bash
-    git clone <repository-url>
-    cd <repository-directory>
-    ```
+1. **Download or Clone the Repository**
+   - **Download**: Download the repository as a ZIP file from GitHub.
+   - **Clone**: Open your terminal and run:
+     ```
+     git clone https://github.com/energelpen/Prerna-Hindi-Quotes/
+     ```
 
-2. **Open `index.html` in Your Browser**
-    Simply open the `index.html` file in your preferred web browser to see the application in action.
+2. **Navigate to the Project Directory**
+   - cd (to the directory)
+
+3. **Open `index.html` in Your Browser**
+- Open the `index.html` file in your preferred web browser to see the application in action.
 
 ## Project Structure
 
@@ -41,10 +45,11 @@ This project has been a great way for me to learn and apply:
 - **Tailwind CSS**: I have learned how to use Tailwind CSS to style a responsive layout, manage spacing, and create visually appealing components.
 - **JavaScript**: I’ve gained experience in handling asynchronous data, manipulating the DOM, and managing user interactions.
 - **API Integration**: Working with the Hindi Quotes API has taught me how to make API requests, handle responses, and display dynamic content.
+- **HTML**: Working with HTML has made my knowledge of HTML better and I hope to sharpen it in the future.
 
 ## Acknowledgements
 
-I would like to extend my thanks to [nkilm](https://github.com/nkilm) for creating the [Hindi Quotes API](https://hindi-quotes.vercel.app/). Your work provided the perfect data source for this project and was instrumental in its development.
+I would like to extend my thanks to [nkilm](https://github.com/nkilm) for creating the [Hindi Quotes API](https://hindi-quotes.vercel.app/). Your work provided the perfect API for this project and was instrumental in making this project possible.
 
 ## Future Improvements
 
