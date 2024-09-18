@@ -53,10 +53,12 @@ This project has been a great way for me to learn and apply:
 
 I would like to extend my thanks to [nkilm](https://github.com/nkilm) for creating the [Hindi Quotes API](https://hindi-quotes.vercel.app/). Your work provided the perfect API for this project and was instrumental in making this project possible.
 
+I have also used Wikimedia CC for the [picture showing the Hindi Language in Devanagari Script](https://en.wikipedia.org/wiki/File:Hindi.svg). 
+
 ## Future Improvements
 
-- **Enhanced Error Handling**: Improve the user experience by providing more detailed error messages and handling various edge cases.
 - **User Customization**: Allow users to save their favorite quotes or select multiple categories to receive a mix of quotes.
+- **Create my own DB and API**: To allow for a wider range of quotes or eventually even a quote library in Hindi
 
 ## License
 
