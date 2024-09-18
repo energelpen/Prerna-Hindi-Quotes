@@ -2,6 +2,8 @@
 
 **Prerna हिन्दी** is a small web project aimed at generating random Hindi quotes to inspire and motivate users. This project serves as a learning tool for me, allowing me to explore and implement various web development technologies.
 
+**Visit the page**: If you wish to visit the working page. Click on this: [Prerna हिन्दी](https://energelpen.github.io/Prerna-Hindi-Quotes/Website/prerna.html) The link for the page is: https://energelpen.github.io/Prerna-Hindi-Quotes/Website/prerna.html
+
 ## Project Overview
 
 This project features:
