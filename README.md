@@ -30,12 +30,12 @@ To run this project locally, follow these steps:
 2. **Navigate to the Project Directory**
    - cd (to the directory)
 
-3. **Open `index.html` in Your Browser**
-- Open the `index.html` file in your preferred web browser to see the application in action.
+3. **Open `prerna.html` in Your Browser**
+- Open the `prerna.html` file in your preferred web browser to see the application in action.
 
 ## Project Structure
 
-- `index.html`: The main HTML file that structures the content and includes references to external styles and scripts.
+- `prerna.html`: The main HTML file that structures the content and includes references to external styles and scripts.
 - `script.js`: The JavaScript file that handles fetching quotes from the API, updating the content on the page, and managing user interactions.
 
 ## Learning Experience
